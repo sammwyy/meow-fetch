@@ -1,0 +1,19 @@
+
+──────  Hardware Information ───────
+
+{blue}塞{reset} {ram_used} / {ram_total} ({ram_usage})
+{cyan}{reset} {cpu_brand} {cpu_max_freq} ({cpu_usage})
+{green}{reset} {screen_size}
+{yellow}{reset} {hdd_used} / {hdd_total} ({hdd_usage})
+
+──────  Software Information ───────
+
+{red}{reset} {hostname}
+{magenta}{reset} {user}
+{red}{reset} {os}
+{yellow}{reset} {kernel}
+{green}{reset} {de}
+{cyan}{reset} {shell}
+
+ᗧ • • • {colors} • • • 
+ᗧ • • • {colors_light} • • • 

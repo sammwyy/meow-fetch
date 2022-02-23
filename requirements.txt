@@ -1,0 +1,6 @@
+psutil==5.9.0
+screeninfo==0.8
+py-cpuinfo==8.0.0
+distro==1.5.0
+colorama==0.4.4
+pathlib==1.0.1

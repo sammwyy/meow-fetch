@@ -1,0 +1,12 @@
+# Path to ascii-art text file.
+ascii-path = "ascii/cat.txt"
+
+# Padding for ascii-art and information text.
+padding-x = 3
+padding-y = 2
+
+# Space between ascii-art and information text.
+space-between = 3
+
+# color character.
+color-char = ""
